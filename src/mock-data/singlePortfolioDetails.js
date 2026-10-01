@@ -1,12 +1,11 @@
 import Single1Img from "../public/images/portfolio/p_single.png";
-import Single2Img from "../public/images/portfolio/p_single2.png";
 import techlandscape from "../public/images/portfolio/techlandscape.png";
-import portfolioBranding from "../public/images/portfolio/portfolioBranding.png";
+import portfolioBranding from "../public/images/portfolio/branding_wide.png";
 import portfolioMarketing from "../public/images/portfolio/portfolioMarketing.png";
-import brandingPortrait from "../public/images/portfolio/brandingPortrait.png";
+import brandingPortrait from "../public/images/portfolio/branding_portrait.png";
 import mediaPortrait from "../public/images/portfolio/mediaPortrait.png";
 import techportrait from "../public/images/portfolio/techportrait.png";
-import markport from "../public/images/portfolio/markport.png";
+import markport from "../public/images/portfolio/marketing_portrait.png";
 const SinglePortfolioDetails = {
   brandingAndDesign: {
     image1: portfolioBranding,
